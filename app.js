@@ -6,11 +6,17 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var nconf = require('nconf');
 var winston = require('winston');
+var nunjucks = require('nunjucks');
 
 var routes = require('./routes/index');
 
 var users = require('./routes/users');
 var app = express();
+
+nunjucks.configure('views', {
+  autoescape: true,
+  express: app
+});
 
 // Comment out as we don't want to override http port at the moment
 //nconf.overrides({
@@ -47,7 +53,7 @@ winston.info('HTTP Config: ', nconf.get("http"));
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'jade');
+app.set('view engine', 'html');
 
 // uncomment after placing your favicon in /public
 //app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
