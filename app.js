@@ -5,10 +5,11 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var nconf = require('nconf');
+var winston = require('winston');
 
 var routes = require('./routes/index');
-var users = require('./routes/users');
 
+var users = require('./routes/users');
 var app = express();
 
 // Comment out as we don't want to override http port at the moment
@@ -33,8 +34,16 @@ nconf.file("config.json");
 nconf.defaults({
   "http": {
     "port": 3000
+  },
+  "logger": {
+    "filelevel": "error"
   }
 });
+
+winston.add(winston.transports.File, {"filename": "error.log", "level": nconf.get("logger:fileLevel")});
+
+winston.info('Initialized nconf');
+winston.info('HTTP Config: ', nconf.get("http"));
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
