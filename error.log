@@ -1,0 +1,73 @@
+{"level":"error","message":"Something went wrong!","timestamp":"2016-01-09T20:25:03.319Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T20:45:08.155Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T20:45:08.164Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T20:56:59.292Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T20:56:59.298Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T21:11:21.086Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T21:11:21.092Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T21:11:39.698Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T21:11:39.705Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T21:11:57.671Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T21:11:57.677Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T21:31:03.341Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T21:31:03.347Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T21:32:17.528Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T21:32:17.532Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T22:04:35.123Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T22:04:35.128Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T22:19:06.142Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T22:19:06.148Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T22:19:56.709Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T22:19:56.713Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T22:20:12.753Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T22:20:12.759Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T22:21:25.883Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T22:21:25.888Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T22:24:44.181Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T22:24:44.185Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T22:34:30.036Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T22:34:30.042Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T22:37:31.715Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T22:37:31.721Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T22:37:46.008Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T22:37:46.012Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T22:38:13.842Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T22:38:13.846Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T22:45:34.752Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T22:45:34.756Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T22:45:53.046Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T22:45:53.051Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T22:51:01.226Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T22:51:01.231Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T22:55:15.432Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T22:55:15.438Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T23:43:13.711Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T23:43:13.717Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T23:46:46.796Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T23:46:46.802Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T23:47:38.203Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T23:47:38.207Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T23:48:20.858Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T23:48:20.862Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T23:48:31.837Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T23:48:31.841Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T23:49:23.692Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T23:49:23.695Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T23:50:02.526Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T23:50:02.532Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T23:50:16.904Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T23:50:16.908Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-09T23:52:13.754Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-09T23:52:13.761Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-10T01:58:09.646Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-10T01:58:09.650Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-10T01:58:25.473Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-10T01:58:25.478Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-10T02:13:29.616Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-10T02:13:29.620Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-10T02:18:28.837Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-10T02:18:28.841Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-10T02:21:09.431Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-10T02:21:09.436Z"}
+{"level":"info","message":"Initialized nconf","timestamp":"2016-01-10T02:26:34.982Z"}
+{"port":8000,"level":"info","message":"HTTP Config: ","timestamp":"2016-01-10T02:26:34.986Z"}

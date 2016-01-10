@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f09f29f2-62b9-49cd-b62a-1f16a5dc5ac0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/popular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/popular.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="masteringExpressWebApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -323,11 +319,17 @@
       <option name="project" value="LOCAL" />
       <updated>1452375251469</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add instagram API, but keep getting strange syntax error on if err check in popular.js file, but all code is correct, will keep investigating">
+      <created>1452392977856</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1452392977856</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="774" extended-state="6" />
+    <frame x="0" y="22" width="1280" height="774" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17043619" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -367,7 +369,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add winstom logging" />
     <MESSAGE value="update app to use nunjucks templating instead of jade" />
-    <option name="LAST_COMMIT_MESSAGE" value="update app to use nunjucks templating instead of jade" />
+    <MESSAGE value="add instagram API, but keep getting strange syntax error on if err check in popular.js file, but all code is correct, will keep investigating" />
+    <option name="LAST_COMMIT_MESSAGE" value="add instagram API, but keep getting strange syntax error on if err check in popular.js file, but all code is correct, will keep investigating" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
